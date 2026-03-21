@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <tittle>Noticias</tittle>
+        <title>Noticias</title>
         <link>https://josepf2025.github.io/asir2026</link>
         <description>noticias nuevas</description>
         <language>es</language>
-        <managingEditor>josepfvnzla2013@gmail.com</managingEditor>
+        <managingEditor>josepfvnzla2013@gmail.com (jose placencio)</managingEditor>
         <image>
             <description>logo</description>
             <link>https://josepf2025.github.io/asir2026</link>
-            <tittle>Noticias</tittle>
+            <title>Noticias</title>
             <url>https://cdn.pixabay.com/photo/2014/04/03/10/43/weight-lifting-311241_1280.png</url>   
         </image>
-        <pubDate>Fri, 13 Mar 2026 13:00:00 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 12:00:00 +0100</pubDate>
         <item>
-            <title>noticia1</title>		
-            <description>Nueva noticia1</description>	
-            <guid>a1</guid>
-            <author>jose placencio</author>
+            <title>noticia 1</title>		
+            <description>Nueva noticia 1</description>	
+            <guid isPermaLink="false">ITEMa12026</guid>
+            <author>josepfvnzla2013@gmail.com</author>
             <link>https://josepf2025.github.io/asir2026/noticia1.html</link>	
-            <pubDate></pubDate>	
+            <pubDate>Sat, 21 Mar 2026 12:00:00 +0100</pubDate>	
         </item>
          <item>
-            <title>noticia2</title>		
-            <description>ueva noticia2</description>	
-            <guid>a2</guid>
-            <author>jose placencio</author>
+            <title>Noticia 2</title>		
+            <description>ueva noticia 2</description>	
+            <guid isPermaLink="false">ITEMa22026</guid>
+            <author>josepfvnzla2013@gmail.com</author>
             <link>https://josepf2025.github.io/asir2026/noticia2.html</link>	
-            <pubDate>Fri, 13 Mar 2026 13:00:00 GMT</pubDate>	
+            <pubDate>Sat, 21 Mar 2026 12:00:00 +0100</pubDate>	
         </item>
          <item>
-            <title>noticia3</title>		
-            <description>Nueva noticia3</description>	
-            <guid>a3</guid>
-            <author>jose placencio</author>
+            <title>Noticia 3</title>		
+            <description>Nueva noticia 3</description>	
+            <guid isPermaLink="false">ITEMa32026</guid>
+            <author>josepfvnzla2013@gmail.com</author>
             <link>https://josepf2025.github.io/asir2026/noticia3.html</link>	
-            <pubDate>Fri, 13 Mar 2026 13:00:00 GMT</pubDate>	
+            <pubDate>Sat, 21 Mar 2026 12:00:00 +0100</pubDate>	
         </item>
     </channel>
 </rss>
